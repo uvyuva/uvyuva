@@ -13,7 +13,7 @@
 
 - [Insta] [https://www.instagram.com/y_uva__uv/]
 
-- ⚡ Fun fact: ... Gamer,Editing
+- ⚡ Fun fact: ... Gamer🤣
 
 
 ### Spotify Playing 🎧
