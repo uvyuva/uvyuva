@@ -1,14 +1,12 @@
-### Hi there 👋
+### Hi there, This is Yuvaraj 👋
 
 [![HitCount](http://hits.dwyl.com/uvyuva/uvyuva.svg)](http://hits.dwyl.com/uvyuva/uvyuva)
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... Databases
-- 📫 How to reach me: ...[mailme] [yuvauv06@gmail.com]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... personal Portfolio 
+- 🌱 I’m currently learning ...  CSS,JS,CyberSecurity,Mobile application development
+- 💬 Ask me about ... Databases,C,C++,Python
+- 📫 How to reach me: ...[Mail-Me] [yuvauv06@gmail.com]
+- [Insta] [https://www.instagram.com/y_uva__uv/]
+- ⚡ Fun fact: ... Gamer,Editing
