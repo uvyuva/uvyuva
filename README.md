@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ...  CSS,JS,CyberSecurity,Mobile application development
 
-- 💬 Ask me about ... Databases,C,C++,Python
+- 💬 Ask me about ... MySQL(Database),Oracle,C,C++,Python
 
 - 📫 How to reach me: ...[Mail-Me] [yuvauv06@gmail.com]
 
