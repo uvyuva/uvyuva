@@ -3,7 +3,7 @@
 [![HitCount](http://hits.dwyl.com/uvyuva/uvyuva.svg)](http://hits.dwyl.com/uvyuva/uvyuva)
 
 
-- 🔭 I’m currently working on ... personal Portfolio 
+- 🔭  personal Portfolio UNDER CONSTRUCTION
 
 - 🌱 I’m currently learning ...  CSS,JS,CyberSecurity,Mobile application development
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: ...[Mail-Me] [yuvauv06@gmail.com]
 
-- [Insta] [https://www.instagram.com/y_uva__uv/]
+-      [Insta] [https://www.instagram.com/y_uva__uv/]
 
 - ⚡ Fun fact: ... Gamer🤣
 
