@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: ...[Mail-Me] [yuvauv06@gmail.com]
 
--      [Insta] [https://www.instagram.com/y_uva__uv/]
+-  [Insta] [https://www.instagram.com/y_uva__uv/]
 
 - ⚡ Fun fact: ... Gamer🤣
 
