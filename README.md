@@ -9,11 +9,9 @@
 
 - 💬 Ask me about ... MySQL(Database),Oracle,C,C++,Python
 
-- 📫 How to reach me: ...[Mail-Me] [yuvauv06@gmail.com]
--                      ...[linked-in]  [ https://www.linkedin.com/in/yuvaraj-p-b744881aa/ ]
+- 📫 How to reach me: ...[Mail-Me  Linked-in] [yuvauv06@gmail.com]
 
--  [Insta] [https://www.instagram.com/y_uva__uv/]
-
+-  [Linked-in] [ https://www.linkedin.com/in/yuvaraj-p-b744881aa/ ]
 - ⚡ Fun fact: ... Gamer🤣
 
 
