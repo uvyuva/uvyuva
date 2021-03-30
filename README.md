@@ -10,6 +10,7 @@
 - 💬 Ask me about ... MySQL(Database),Oracle,C,C++,Python
 
 - 📫 How to reach me: ...[Mail-Me] [yuvauv06@gmail.com]
+-                      ...[linked-in]  [ https://www.linkedin.com/in/yuvaraj-p-b744881aa/ ]
 
 -  [Insta] [https://www.instagram.com/y_uva__uv/]
 
