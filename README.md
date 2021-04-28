@@ -1,6 +1,5 @@
 ### Hi there, This is Yuvaraj 👋
 
-[![HitCount](http://hits.dwyl.com/uvyuva/uvyuva.svg)](http://hits.dwyl.com/uvyuva/uvyuva)
 
 
 - 🔭  personal Portfolio UNDER CONSTRUCTION
