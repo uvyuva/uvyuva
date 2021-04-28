@@ -5,14 +5,14 @@
 
 - 🔭  personal Portfolio UNDER CONSTRUCTION
 
-- 🌱 I’m currently learning ...  CSS,JS,CyberSecurity,Mobile application development
+- 🌱 I’m currently learning ...  JS, Mobile application development
 
-- 💬 Ask me about ... MySQL(Database),Oracle,C,C++,Python
+- 💬 Ask me about ... MySQL(Database),Oracle,C,C++,Python,HTML,CSS
 
 - 📫 How to reach me: ...[Mail-Me  Linked-in] [yuvauv06@gmail.com]
 
 -  [Linked-in] [ https://www.linkedin.com/in/yuvaraj-p-b744881aa/ ]
-- ⚡ Fun fact: ... Gamer🤣
+- ⚡ Fun fact: ... Gamer
 
 
 ![](https://komarev.com/ghpvc/?username=uvyuva&style=flat-square&color=brightgreen)
