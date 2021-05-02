@@ -4,11 +4,11 @@
 
 - 🔭  personal Portfolio UNDER CONSTRUCTION
 
-- 🌱 I’m currently learning ...  JS, Mobile application development
+- 🌱 I’m currently learning ...  React,JS, Mobile application development
 
 - 💬 Ask me about ... MySQL(Database),Oracle,C,C++,Python,HTML,CSS
 
-- 📫 How to reach me: ...[Mail-Me  Linked-in] [yuvauv06@gmail.com]
+- 📫 How to reach me: ...[Mail-Me ] [yuvauv06@gmail.com]
 
 -  [Linked-in] [ https://www.linkedin.com/in/yuvaraj-p-b744881aa/ ]
 - ⚡ Fun fact: ... Gamer
