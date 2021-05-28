@@ -2,7 +2,7 @@
 
 
 
-- 🔭  personal Portfolio UNDER CONSTRUCTION
+- 🔭  personal Portfolio [https://uvyuva.github.io/]
 
 - 🌱 I’m currently learning ...  React,JS, Mobile application development
 
