@@ -4,7 +4,7 @@
 
 - 🔭  personal Portfolio [https://uvyuva.github.io/]
 
-- 🌱 I’m currently learning ...  React,JS, Mobile application development
+- 🌱 I’m currently learning ...  Cloud Computing,JS, Mobile application development
 
 - 💬 Ask me about ... MySQL(Database),Oracle,C,C++,Python,HTML,CSS
 
