@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning ...  Cloud Computing,JS, Mobile application development
 
-- 💬 Ask me about ... MySQL(Database),Oracle,C,C++,Python,HTML,CSS,ReactJS
+- 💬 Ask me about ... MySQL(Database),Oracle,C,Python,HTML,CSS,ReactJS
 
 - 📫 How to reach me: ...[Mail-Me ] [yuvauv06@gmail.com]
 
