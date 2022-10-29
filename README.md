@@ -4,7 +4,7 @@
 
 - 🔭  personal Portfolio [https://uvyuva.github.io/]
 
-- 🌱 I’m currently learning ...  Cloud Computing, Informatica ETL
+- 🌱 I’m currently learning ...  Cloud Computing, Informatica Powercenter, ETL
 
 - 💬 Ask me about ... Oracle,C,Python,HTML,CSS,ReactJS
 
